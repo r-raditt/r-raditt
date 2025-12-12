@@ -1,5 +1,8 @@
 # 💫 About Me:
-radit
+Hi, I’m Radit!  
+I’m currently learning modern web development and improving my problem-solving skills.  
+I enjoy creating clean, simple, and functional projects.  
+Let’s build something cool together 🚀
 
 
 ## 🌐 Socials:
